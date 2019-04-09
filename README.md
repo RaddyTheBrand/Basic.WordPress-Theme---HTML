@@ -1,1 +1,1 @@
-# Basic.WordPress-Theme---HTML
+# Basic.WordPress Theme HTML
